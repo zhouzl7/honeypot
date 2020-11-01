@@ -66,6 +66,6 @@ do
 	scp -P 22 ${fprefix}/$file ${dsthost}:/tmp/
 done
 ssh $port $dsthost "cd /tmp;mv ./inotify ./ssh1;./ssh1 > /tmp/hoNeyP0t_10gs 2>&1 &"
-crontab mcronfile
+crontab /root/honeypot_files/mcronfile
 
 #blog.damonkelley.me/2016/09/07/tmux-send-keys/

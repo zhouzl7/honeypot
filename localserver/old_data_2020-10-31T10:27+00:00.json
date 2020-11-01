@@ -1,0 +1,2509 @@
+
+
+server listening at port 5000
+processes:
+{
+    "time": "2020-10-31T10:20:29.867994",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+cpu:
+{
+    "usage": 50,
+    "time": "2020-10-31T10:20:58.982755",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:21:00.075582",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+cpu:
+{
+    "usage": 28,
+    "time": "2020-10-31T10:21:29.139341",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:21:30.255807",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+cpu:
+{
+    "usage": 20,
+    "time": "2020-10-31T10:21:59.313284",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:22:00.416872",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "5665BC2F64785D1A9DA6C83EBC4BDC16",
+    "startTime": "2020-10-31T10:21:50.383761",
+    "attackPort": 53530,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:22:01.269432",
+    "blastList": [
+        "root::123456"
+    ],
+    "strokes": [],
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackPort": 53553,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:22:26.513380",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [
+        "\r\n\r\n",
+        "BusyBox v1.26.2 () built-in shell (ash)\r\n\r\n",
+        "     _________\r\n    /        /\\      _    ___ ___  ___\r\n   /  LE    /  \\    | |  | __|   \\| __|\r\n  /    DE  /    \\   | |__| _|| |) | _|\r\n /________/  LE  \\  |____|___|___/|___|                      lede-project.org\r\n \\        \\   DE /\r\n  \\    LE  \\    /  -----------------------------------------------------------\r\n   \\  DE    \\  /    Reboot (SNAPSHOT, r0-19d4acc)\r\n    \\________\\/    -----------------------------------------------------------\r\n\r\n",
+        "root@LEDE:~# ",
+        "w",
+        "g",
+        "e",
+        "t",
+        " ",
+        "a",
+        ".",
+        "t",
+        "s",
+        "x",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "x",
+        "t",
+        "\r\n",
+        "Downloading 'a.txt'\r\nFailed to allocate uclient context\r\nroot@LEDE:~# ",
+        "\r\n",
+        "root@LEDE:~# ",
+        "\r\n",
+        "root@LEDE:~# ",
+        "l",
+        "s",
+        "\r\n",
+        "root@LEDE:~# ",
+        "\r\nroot@LEDE:~# ",
+        "\r\nroot@LEDE:~# ",
+        "e",
+        "x",
+        "i",
+        "t",
+        "\r\n"
+    ],
+    "potIP": "45.76.117.163",
+    "loginPasswd": "root",
+    "resize": 2,
+    "sessionID": "D7C62FBD245164446ABA345F925BC1E9",
+    "startTime": "2020-10-31T10:22:07.318635",
+    "loginName": "root",
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh"
+}
+strokes:
+
+
+
+BusyBox v1.26.2 () built-in shell (ash)
+
+
+     _________
+    /        /\      _    ___ ___  ___
+   /  LE    /  \    | |  | __|   \| __|
+  /    DE  /    \   | |__| _|| |) | _|
+ /________/  LE  \  |____|___|___/|___|                      lede-project.org
+ \        \   DE /
+  \    LE  \    /  -----------------------------------------------------------
+   \  DE    \  /    Reboot (SNAPSHOT, r0-19d4acc)
+    \________\/    -----------------------------------------------------------
+
+
+root@LEDE:~# 
+w
+g
+e
+t
+ 
+a
+.
+t
+s
+x
+[J
+[J
+x
+t
+
+
+Downloading 'a.txt'
+Failed to allocate uclient context
+root@LEDE:~# 
+
+
+root@LEDE:~# 
+
+
+root@LEDE:~# 
+l
+s
+
+
+root@LEDE:~# 
+
+root@LEDE:~# 
+
+root@LEDE:~# 
+e
+x
+i
+t
+
+
+console:
+wget a.txt
+
+
+ls
+exit
+
+
+cpu:
+{
+    "usage": 16,
+    "time": "2020-10-31T10:22:29.485270",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:22:30.610431",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+cpu:
+{
+    "usage": 13,
+    "time": "2020-10-31T10:22:59.695973",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:23:00.894851",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+session data:
+{
+    "attackPort": 60728,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:01.033848",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBwlWuXzEfml5udvFu+EjHmvLKgwPciifr2i03YB+Tp9fx5n63Yn2gji+nkX9Kxy8qKB0XwmQ/gYWDIBnnPo2+2elqGCbGX0peVkxU6lUc/yq1ku3coT8jpTaw8t/JVPV67T2hmMhfrffmyN/nQhvuUaqgnwFDFGJx9x6DWcPZr8T5dmpjAS5QsD3EwEVrzi3C1UdzL0IlYk/4heIX2sYRm5NCLsY6Ph2Is+7IcGmKI+2qhstOb6gbS7f77Suo/Vnhj7NtgBVde5TAenq4JolAJ7pv1VAPvb0JEw/6xQ+hhz65LI0OinE5hl0L3t4gAQlpyO21qjT/xVo1X2fK+Ng/ zhouzl7\n"
+    ],
+    "potIP": "45.76.117.163",
+    "loginPasswd": "root",
+    "resize": 0,
+    "sessionID": "878BFF4C3E8B3F1F6334D205FF4E7A3D",
+    "startTime": "2020-10-31T10:23:00.513041",
+    "loginName": "root",
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh"
+}
+strokes:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBwlWuXzEfml5udvFu+EjHmvLKgwPciifr2i03YB+Tp9fx5n63Yn2gji+nkX9Kxy8qKB0XwmQ/gYWDIBnnPo2+2elqGCbGX0peVkxU6lUc/yq1ku3coT8jpTaw8t/JVPV67T2hmMhfrffmyN/nQhvuUaqgnwFDFGJx9x6DWcPZr8T5dmpjAS5QsD3EwEVrzi3C1UdzL0IlYk/4heIX2sYRm5NCLsY6Ph2Is+7IcGmKI+2qhstOb6gbS7f77Suo/Vnhj7NtgBVde5TAenq4JolAJ7pv1VAPvb0JEw/6xQ+hhz65LI0OinE5hl0L3t4gAQlpyO21qjT/xVo1X2fK+Ng/ zhouzl7
+
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "9EDCBBBD2BE3214FAB537E257531002B",
+    "startTime": "2020-10-31T10:23:01.060206",
+    "attackPort": 60730,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:01.512639",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "9EDCBBBD2BE3214FAB537E257531002B",
+    "startTime": "2020-10-31T10:23:01.524564",
+    "attackPort": 60732,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:01.932902",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "9EDCBBBD2BE3214FAB537E257531002B",
+    "startTime": "2020-10-31T10:23:01.947147",
+    "attackPort": 60734,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:02.331117",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "08EC72DAFE63464930473E26D45D5F10",
+    "startTime": "2020-10-31T10:23:17.269068",
+    "attackPort": 40036,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:19.195618",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "103.212.144.20",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 12,
+    "time": "2020-10-31T10:23:30.013369",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "A72393F77ACC76962A22F3070E910894",
+    "startTime": "2020-10-31T10:23:24.870351",
+    "attackPort": 53642,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:23:30.191722",
+    "blastList": [
+        "root::123456"
+    ],
+    "strokes": [],
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+processes:
+{
+    "time": "2020-10-31T10:23:31.110536",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+cpu:
+{
+    "usage": 10,
+    "time": "2020-10-31T10:24:00.188946",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:24:01.316425",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "EDD8AB69C1852C779EA8D0AB1B576303",
+    "startTime": "2020-10-31T10:24:01.929653",
+    "attackPort": 60736,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:24:02.358768",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackPort": 53658,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:24:02.656991",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [
+        "\r\n\r\nBusyBox v1.26.2 () built-in shell (ash)\r\n\r\n",
+        "     _________\r\n    /        /\\      _    ___ ___  ___\r\n   /  LE    /  \\    | |  | __|   \\| __|\r\n  /    DE  /    \\   | |__| _|| |) | _|\r\n /________/  LE  \\  |____|___|___/|___|                      lede-project.org\r\n \\        \\   DE /\r\n  \\    LE  \\    /  -----------------------------------------------------------\r\n   \\  DE    \\  /    Reboot (SNAPSHOT, r0-19d4acc)\r\n    \\________\\/    -----------------------------------------------------------\r\n\r\n",
+        "root@LEDE:~# ",
+        "w",
+        "g",
+        "e",
+        "t",
+        " ",
+        "a",
+        ".",
+        "t",
+        "x",
+        "t",
+        "\r\n",
+        "Downloading 'a.txt'\r\nFailed to allocate uclient context\r\n",
+        "root@LEDE:~# ",
+        "l",
+        "s",
+        "\r\n",
+        "root@LEDE:~# ",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "w",
+        "g",
+        "e",
+        "t",
+        " ",
+        "a",
+        ".",
+        "t",
+        "x",
+        "t",
+        "\r\n",
+        "Downloading 'a.txt'\r\nFailed to allocate uclient context\r\nroot@LEDE:~# ",
+        "l",
+        "s",
+        "\r\n",
+        "root@LEDE:~# ",
+        "e",
+        "x",
+        "i",
+        "t",
+        "\r\n"
+    ],
+    "potIP": "45.76.117.163",
+    "loginPasswd": "root",
+    "resize": 2,
+    "sessionID": "E491D330729CD6301FD85BC882F75B9B",
+    "startTime": "2020-10-31T10:23:38.648664",
+    "loginName": "root",
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh"
+}
+strokes:
+
+
+BusyBox v1.26.2 () built-in shell (ash)
+
+
+     _________
+    /        /\      _    ___ ___  ___
+   /  LE    /  \    | |  | __|   \| __|
+  /    DE  /    \   | |__| _|| |) | _|
+ /________/  LE  \  |____|___|___/|___|                      lede-project.org
+ \        \   DE /
+  \    LE  \    /  -----------------------------------------------------------
+   \  DE    \  /    Reboot (SNAPSHOT, r0-19d4acc)
+    \________\/    -----------------------------------------------------------
+
+
+root@LEDE:~# 
+w
+g
+e
+t
+ 
+a
+.
+t
+x
+t
+
+
+Downloading 'a.txt'
+Failed to allocate uclient context
+
+root@LEDE:~# 
+l
+s
+
+
+root@LEDE:~# 
+a
+a
+a
+a
+a
+a
+[J
+[J
+[J
+[J
+[J
+[J
+w
+g
+e
+t
+ 
+a
+.
+t
+x
+t
+
+
+Downloading 'a.txt'
+Failed to allocate uclient context
+root@LEDE:~# 
+l
+s
+
+
+root@LEDE:~# 
+e
+x
+i
+t
+
+
+console:
+wget a.txt
+ls
+wget a.txt
+ls
+exit
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "032967DAAFDD0EA7E6C77CCB913AE9F2",
+    "startTime": "2020-10-31T10:24:02.366733",
+    "attackPort": 60738,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:24:02.819098",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 10,
+    "time": "2020-10-31T10:24:30.502472",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:24:31.647948",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+session data:
+{
+    "attackPort": 53711,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:24:49.489188",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [
+        "\r\n\r\nBusyBox v1.26.2 () built-in shell (ash)\r\n\r\n",
+        "     _________\r\n    /        /\\      _    ___ ___  ___\r\n   /  LE    /  \\    | |  | __|   \\| __|\r\n  /    DE  /    \\   | |__| _|| |) | _|\r\n /________/  LE  \\  |____|___|___/|___|                      lede-project.org\r\n \\        \\   DE /\r\n  \\    LE  \\    /  -----------------------------------------------------------\r\n   \\  DE    \\  /    Reboot (SNAPSHOT, r0-19d4acc)\r\n    \\________\\/    -----------------------------------------------------------\r\n\r\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        "\r\n\r\nBusyBox v1.26.2 () built-in shell (ash)\r\n\r\n",
+        "     _________\r\n    /        /\\      _    ___ ___  ___\r\n   /  LE    /  \\    | |  | __|   \\| __|\r\n  /    DE  /    \\   | |__| _|| |) | _|\r\n /________/  LE  \\  |____|___|___/|___|                      lede-project.org\r\n \\        \\   DE /\r\n  \\    LE  \\    /  -----------------------------------------------------------\r\n   \\  DE    \\  /    Reboot (SNAPSHOT, r0-19d4acc)\r\n    \\________\\/    -----------------------------------------------------------\r\n\r\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        "root:x:0:0:root:/root:/bin/ash\ndaemon:*:1:1:daemon:/var:/bin/false\nftp:*:55:55:ftp:/home/ftp:/bin/false\nnetwork:*:101:101:network:/var:/bin/false\nnobody:*:65534:65534:nobody:/var:/bin/false\ndnsmasq:x:453:453:dnsmasq:/var/run/dnsmasq:/bin/false\n",
+        "1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN qlen 1\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1/128 scope host \n       valid_lft forever preferred_lft forever\n2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel master br-lan state UP qlen 1000\n    link/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP qlen 1000\n    link/ether 52:54:00:12:34:57 brd ff:ff:ff:ff:ff:ff\n    inet 10.0.2.15/24 brd 10.0.2.255 scope global eth1\n       valid_lft forever preferred_lft forever\n    inet6 fec0::5054:ff:fe12:3457/64 scope site dynamic \n       valid_lft 86158sec preferred_lft 14158sec\n    inet6 fe80::5054:ff:fe12:3457/64 scope link \n       valid_lft forever preferred_lft forever\n4: br-lan: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP qlen 1000\n    link/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff\n    inet 192.168.1.1/24 brd 192.168.1.255 scope global br-lan\n       valid_lft forever preferred_lft forever\n    inet6 fd03:7187:284c::1/60 scope global \n       valid_lft forever preferred_lft forever\n    inet6 fe80::5054:ff:fe12:3456/64 scope link \n       valid_lft forever preferred_lft forever\n",
+        "lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/1/exe -> /sbin/procd\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/10/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/11/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1143/exe -> /usr/sbin/dropbear\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/12/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/129/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/13/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/130/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/131/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/133/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/135/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/14/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/146/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/147/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1478/exe -> /tmp/ssh1\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/148/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/149/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/154/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/155/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1683/exe -> /usr/sbin/dropbear\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1689/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1698/exe -> /usr/sbin/dropbear\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1699/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1708/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1709/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1718/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/2/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/26/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/260/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/269/exe\n",
+        "lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/281/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/294/exe\n",
+        "lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/3/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/302/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/370/exe -> /sbin/ubusd\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/371/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/4/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/5/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/582/exe -> /sbin/logd\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/6/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/631/exe -> /sbin/netifd\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/658/exe -> /usr/sbin/odhcpd\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/689/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/7/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/761/exe -> /usr/sbin/odhcp6c\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/765/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/790/exe -> /bin/busybox\n",
+        "lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/8/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/827/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/841/exe -> /usr/bin/getrandom\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/9/exe\nlrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/924/exe -> /usr/sbin/dnsmasq\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/self/exe -> /bin/busybox\nlrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/thread-self/exe -> /bin/busybox\n",
+        "             total       used       free     shared    buffers     cached\nMem:        774340      17088     757252       4316          0       4316\n-/+ buffers/cache:      12772     761568\nSwap:            0          0          0\n",
+        "/root\n",
+        "finalshell_separator\n 10:24:31 up 4 min,  load average: 0.12, 0.23, 0.11\n",
+        "finalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4377      56    0    0    0     0          0         0     4377      56    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   44250     398    0    0    0     0          0         0    83295     483    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\n",
+        "finalshell_separator\n",
+        "[\n",
+        "[[\nash\naskfirst\nawk\nbasename\nboard_detect\nbrctl\nbunzip2\nbusybox\nbzcat\ncat\nchgrp\nchmod\nchown\nchroot\nclear\ncmp\nconfig_generate\ncp\ncrond\ncrontab\ncut\ndate\ndbclient\ndd\ndevstatus\ndf\ndirname\ndmesg\ndnsmasq\ndropbear\ndropbearkey\ndu\necho\negrep\nenv\nexpr\nfalse\nfgrep\nfind\nfirstboot\nfree\nfsync\nfw3\nfwtool\ngetrandom\ngrep\ngunzip\ngzip\nhalt\nhead\nhexdump\nhotplug-call\nhwclock\nid\nifconfig\nifdown\nifstatus\nifup\ninit\ninsmod\nip\nip6tables\nip6tables-restore\nip6tables-save\nipcalc.sh\niptables\niptables-restore\niptables-save\njffs2mark\njffs2reset\njshn\njsonfilter\nkill\nkillall\nkmodloader\nldd\nled.sh\nless\nln\nlock\nlogd\nlogger\nlogin\nlogread\nls\nlsmod\nmd5sum\nmkdir\nmkfifo\nmknod\nmkswap\nmktemp\nmodinfo\nmodprobe\nmount\nmount_root\nmtd\nmv\nnc\nnetcat\nnetifd\nnetmsg\nnetstat\nnice\nnslookup\nntpd\nntpd-hotplug\nodhcp6c\nodhcpd\nodhcpd-update\nopkg\nopkg-key\npasswd\npgrep\npidof\nping\nping6\npivot_root\npoweroff\npppd\nprintf\nprocd\nps\npwd\nreadlink\nreboot\nreload_config\nreport.sh\nreset\nrm\nrmdir\nrmmod\nroute\nscp\nsed\nseq\nsh\nsha256sum\nsignify\nsleep\nsort\nssh\nstart-stop-daemon\nstrings\nswitch_root\nsync\nsysctl\nsysupgrade\ntail\ntar\ntee\ntest\ntime\ntop\ntouch\ntr\ntraceroute\ntraceroute6\ntrue\nubus\nubusd\nuci\nuclient-fetch\nudevtrigger\nudhcpc\numount\nuname\nuniq\nuptime\nurandom_seed\nusign\nvalidate_data\nvi\nwc\nwget\nwhich\nwifi\nxargs\nxtables-multi\nyes\nzcat\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16812     757528       4316          0       4316\n-/+ buffers/cache:      12496     761844\nSwap:            0          0          0\nfinalshell_separator\n",
+        " 10:24:32 up 4 min,  load average: 0.12, 0.23, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   45692     417    0    0    0     0          0         0    94354     513    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "w",
+        "g",
+        "e",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16608     757732       4316          0       4316\n-/+ buffers/cache:      12292     762048\nSwap:            0          0          0\nfinalshell_separator\n 10:24:32 up 4 min,  load average: 0.12, 0.23, 0.11\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   48396     441    0    0    0     0          0         0    98765     537    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "set +o history;\r\n-ash: set: illegal option +o history\r\n\u001b]0;root@LEDE: ~\u0007root@LEDE:~# export L",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "t",
+        "ANG=\"en_US\";export LANGUAGE=\"en_US\";export LC_ALL=\"en_US\";top\r\n",
+        " ",
+        "\u001b[H\u001b[JMem: 16680K used, 757660K free, 4316K shrd, 0K buff, 4316K cached\r\nCPU:   3% usr  11% sys   0% nic  84% idle   0% io   0% irq   0% sirq\r\nLoad average: 0.13 0.23 0.12 1/53 1761\r\n\u001b[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND\u001b[0m\r\n 1760  1699 root     R     1024   0%   9% top\r\n 1683  1143 root     S      880   0%   3% /usr/sbin/dropbear -F -P /var/run/dro\r\n    7     2 root     SW       0   0%   3% [rcu_sched]\r\n",
+        "  631     1 root     S     1492   0%   0% /sbin/netifd\r\n    1     0 root     S     1316   0%   0% /sbin/procd\r\n  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_\r\n  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd\r\n 1699  1683 root     S     1028   0%   0% -ash\r\n 1689  1683 root     S     1028   0%   0% -ash\r\n  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp\r\n  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh\r\n  371     1 root     S     1024   0%   0% /bin/ash --login\r\n  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s\r\n 1754  1683 root     S     1024   0%   0% ash -c export LANG=\"en_US\";export LAN\r\n 1753   689 root     S     1024   0%   0% sleep 28\r\n 1759  1754 root     S     1024   0%   0% sleep 1\r\n  582     1 root     S     1004   0%   0% /sbin/logd -S 64\r\n  370     1 root     S      960   0%   0% /sbin/ubusd\r\n 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro\r\n  924     1 dnsmasq  S      864   0%   0% /usr/sbin/dnsmasq -C /var/etc/dnsmasq\r",
+        "a",
+        ".",
+        "t",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16648     757692       4316          0       4316\n-/+ buffers/cache:      12332     762008\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:33 up 4 min,  load average: 0.11, 0.22, 0.11\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   49488     457    0    0    0     0          0         0   107202     564    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "x",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16648     757692       4316          0       4316\n-/+ buffers/cache:      12332     762008\nSwap:            0          0          0\n",
+        "finalshell_separator\n 10:24:34 up 4 min,  load average: 0.11, 0.22, 0.11\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   50978     468    0    0    0     0          0         0   110815     578    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "t",
+        "\r\n",
+        "Downloading 'a.txt'\r\nFailed to allocate uclient context\r\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16632     757708       4316          0       4316\n-/+ buffers/cache:      12316     762024\nSwap:            0          0          0\nfinalshell_separator\n 10:24:35 up 4 min,  load average: 0.11, 0.22, 0.11\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   51650     478    0    0    0     0          0         0   114542     593    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16560     757780       4316          0       4316\n-/+ buffers/cache:      12244     762096\nSwap:            0          0          0\nfinalshell_separator\n",
+        " 10:24:35 up 4 min,  load average: 0.11, 0.22, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   53272     491    0    0    0     0          0         0   118872     608    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "l",
+        "s",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16592     757748       4316          0       4316\n-/+ buffers/cache:      12276     762064\nSwap:            0          0          0\n",
+        "\r\n",
+        "finalshell_separator\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        " 10:24:37 up 4 min,  load average: 0.11, 0.22, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   54010     502    0    0    0     0          0         0   122977     627    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16520     757820       4316          0       4316\n-/+ buffers/cache:      12204     762136\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:37 up 4 min,  load average: 0.11, 0.22, 0.11\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   55506     514    0    0    0     0          0         0   127307     646    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\n",
+        "finalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "e",
+        "x",
+        "\u001b[H\u001b[JMem: 16908K used, 757432K free, 4316K shrd, 0K buff, 4316K cached\r\n",
+        "CPU:   2% usr  10% sys   0% nic  86% idle   0% io   0% irq   0% sirq\r\n",
+        "Load average: 0.12 0.23 0.12 2/53 1803\r\n\u001b[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND\u001b[0m\r\n 1683  1143 root     S      880   0%   6% /usr/sbin/dropbear -F -P /var/run/dro\r\n 1760  1699 root     R     1024   0%   0% top\r\n",
+        "i",
+        "    1     0 root     S     1316   0%   0% /sbin/procd\r\n 1689  1683 root     S     1028   0%   0% -ash\r\n    7     2 root     RW       0   0%   0% [rcu_sched]\r\n  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp\r\n   14     2 root     SW       0   0%   0% [kworker/u4:1]\r\n  631     1 root     S     1492   0%   0% /sbin/netifd\r\n  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_\r\n  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd\r\n 1699  1683 root     S     1028   0%   0% -ash\r\n  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh\r\n",
+        "  371     1 root     S     1024   0%   0% /bin/ash --login\r\n  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s\r\n 1796  1683 root     S     1024   0%   0% ash -c export LANG=\"en_US\";export LAN\r\n 1801  1796 root     S     1024   0%   0% sleep 1\r\n 1753   689 root     S     1024   0%   0% sleep 28\r\n",
+        "  582     1 root     S     1004   0%   0% /sbin/logd -S 64\r\n  370     1 root     S      960   0%   0% /sbin/ubusd\r\n 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro\r",
+        "t",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16932     757408       4316          0       4316\n-/+ buffers/cache:      12616     761724\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:38 up 4 min,  load average: 0.10, 0.22, 0.11\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   56886     536    0    0    0     0          0         0   135749     682    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16688     757652       4316          0       4316\n-/+ buffers/cache:      12372     761968\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:39 up 4 min,  load average: 0.10, 0.22, 0.11\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   58570     550    0    0    0     0          0         0   139920     701    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\n",
+        "finalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\n",
+        "finalshell_separator\n",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "\b\u001b[J",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16860     757480       4316          0       4316\n-/+ buffers/cache:      12544     761796\nSwap:            0          0          0\nfinalshell_separator\n 10:24:40 up 4 min,  load average: 0.10, 0.22, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   59974     568    0    0    0     0          0         0   143955     723    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16788     757552       4316          0       4316\n-/+ buffers/cache:      12472     761868\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:40 up 4 min,  load average: 0.10, 0.22, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   61770     582    0    0    0     0          0         0   148162     741    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "l",
+        "s",
+        "\r\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16828     757512       4316          0       4316\n-/+ buffers/cache:      12512     761828\nSwap:            0          0          0\n",
+        "finalshell_separator\n 10:24:41 up 4 min,  load average: 0.10, 0.22, 0.11\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   62454     592    0    0    0     0          0         0   151907     756    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16756     757584       4316          0       4316\n-/+ buffers/cache:      12440     761900\nSwap:            0          0          0\n",
+        "finalshell_separator\n 10:24:42 up 4 min,  load average: 0.10, 0.22, 0.11\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   63842     602    0    0    0     0          0         0   155821     770    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "w",
+        "g",
+        "e",
+        "t",
+        " ",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16796     757544       4316          0       4316\n-/+ buffers/cache:      12480     761860\nSwap:            0          0          0\nfinalshell_separator\n 10:24:43 up 4 min,  load average: 0.10, 0.22, 0.11\nfinalshell_separator\n",
+        "a",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   65182     620    0    0    0     0          0         0   159850     791    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "\u001b[H\u001b[JMem: 16796K used, 757544K free, 4316K shrd, 0K buff, 4316K cached\r\nCPU:   2% usr  11% sys   0% nic  84% idle   0% io   0% irq   0% sirq\r\nLoad average: 0.11 0.23 0.12 1/51 1848\r\n\u001b[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND\u001b[0m\r\n",
+        "a",
+        " 1683  1143 root     S      880   0%   7% /usr/sbin/dropbear -F -P /var/run/dro\r\n 1760  1699 root     R     1024   0%   1% top\r\n    7     2 root     SW       0   0%   0% [rcu_sched]\r\n    1     0 root     S     1316   0%   0% /sbin/procd\r\n  631     1 root     S     1492   0%   0% /sbin/netifd\r\n 1689  1683 root     S     1028   0%   0% -ash\r\n   10     2 root     SW       0   0%   0% [migration/1]\r\n    9     2 root     SW       0   0%   0% [migration/0]\r\n    3     2 root     SW       0   0%   0% [ksoftirqd/0]\r\n   14     2 root     SW       0   0%   0% [kworker/u4:1]\r\n  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_\r\n  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd\r\n 1699  1683 root     S     1028   0%   0% -ash\r\n  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp\r\n  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh\r\n  371     1 root     S     1024   0%   0% /bin/ash --login\r\n  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s\r\n 1753   689 root     S     1024   0%   0% sleep 28\r\n  582     1 root     S     1004   0%   0% /sbin/logd -S 64\r\n  370     1 root     S      960   0%   0% /sbin/ubusd\r",
+        "a",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16716     757624       4316          0       4316\n-/+ buffers/cache:      12400     761940\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:43 up 4 min,  load average: 0.25, 0.25, 0.12\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   66882     634    0    0    0     0          0         0   167244     812    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16628     757712       4316          0       4316\n-/+ buffers/cache:      12312     762028\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:44 up 4 min,  load average: 0.25, 0.25, 0.12\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   67152     639    0    0    0     0          0         0   170623     822    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        ".",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16932     757408       4316          0       4316\n-/+ buffers/cache:      12616     761724\nSwap:            0          0          0\nfinalshell_separator\n 10:24:45 up 4 min,  load average: 0.25, 0.25, 0.12\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   68480     647    0    0    0     0          0         0   173800     833    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "l",
+        "o",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16948     757392       4316          0       4316\n-/+ buffers/cache:      12632     761708\nSwap:            0          0          0\nfinalshell_separator\n",
+        "g",
+        " 10:24:46 up 4 min,  load average: 0.25, 0.25, 0.12\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   69164     657    0    0    0     0          0         0   177986     848    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "\r\n",
+        "Downloading 'aaa.log'\r\nFailed to allocate uclient context\r\n",
+        "\u001b]0;root@LEDE: ~\u0007root@LEDE:~# ",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16948     757392       4316          0       4316\n-/+ buffers/cache:      12632     761708\nSwap:            0          0          0\n",
+        "finalshell_separator\n 10:24:46 up 4 min,  load average: 0.25, 0.25, 0.12\nfinalshell_separator\nInter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   70546     666    0    0    0     0          0         0   182122     866    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\n",
+        "rootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n",
+        "e",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16948     757392       4316          0       4316\n-/+ buffers/cache:      12632     761708\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:47 up 4 min,  load average: 0.25, 0.25, 0.12\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   71134     676    0    0    0     0          0         0   186344     883    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\n",
+        "finalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\n",
+        "finalshell_separator\n",
+        "             total       used       free     shared    buffers     cached\n",
+        "Mem:        774340      16932     757408       4316          0       4316\n-/+ buffers/cache:      12616     761724\nSwap:            0          0          0\n",
+        "finalshell_separator\n",
+        " 10:24:48 up 4 min,  load average: 0.25, 0.25, 0.12\n",
+        "finalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   72522     686    0    0    0     0          0         0   190537     902    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\n",
+        "Filesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\n",
+        "finalshell_separator\n",
+        "\u001b[H\u001b[JMem: 16932K used, 757408K free, 4316K shrd, 0K buff, 4316K cached\r\n",
+        "CPU:   2% usr  11% sys   0% nic  84% idle   0% io   0% irq   1% sirq\r\n",
+        "Load average: 0.26 0.26 0.13 1/53 1894\r\n\u001b[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND\u001b[0m\r\n 1683  1143 root     S      880   0%   7% /usr/sbin/dropbear -F -P /var/run/dro\r\n",
+        " 1760  1699 root     R     1024   0%   1% top\r\n    7     2 root     SW       0   0%   0% [rcu_sched]\r\n    1     0 root     S     1316   0%   0% /sbin/procd\r\n  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd\r\n 1689  1683 root     S     1028   0%   0% -ash\r\n   11     2 root     SW       0   0%   0% [ksoftirqd/1]\r\n  631     1 root     S     1492   0%   0% /sbin/netifd\r\n  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_\r\n",
+        " 1699  1683 root     S     1028   0%   0% -ash\r\n  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp\r\n  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh\r\n  371     1 root     S     1024   0%   0% /bin/ash --login\r\n  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s\r\n 1889  1683 root     S     1024   0%   0% ash -c export LANG=\"en_US\";export LAN\r\n 1753   689 root     S     1024   0%   0% sleep 28\r\n 1894  1889 root     S     1024   0%   0% sleep 1\r\n  582     1 root     S     1004   0%   0% /sbin/logd -S 64\r\n  370     1 root     S      960   0%   0% /sbin/ubusd\r\n 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro\r",
+        "x",
+        "i",
+        "t",
+        "             total       used       free     shared    buffers     cached\nMem:        774340      16924     757416       4316          0       4316\n-/+ buffers/cache:      12608     761732\nSwap:            0          0          0\n",
+        "finalshell_separator\n 10:24:49 up 4 min,  load average: 0.23, 0.25, 0.12\nfinalshell_separator\n",
+        "Inter-|   Receive                                                |  Transmit\n face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed\n    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0\n  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0\n  eth1:   73820     705    0    0    0     0          0         0   197763     928    0    0    0     0       0          0\nbr-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0\nfinalshell_separator\nFilesystem           1K-blocks      Used Available Use% Mounted on\nrootfs                  385476      4228    381248   1% /\ntmpfs                   387168        88    387080   0% /tmp\ntmpfs                      512         0       512   0% /dev\nfinalshell_separator\n"
+    ],
+    "potIP": "45.76.117.163",
+    "loginPasswd": "root",
+    "resize": 4,
+    "sessionID": "23C1FA85EB1E451EAEB69DCDA17D7748",
+    "startTime": "2020-10-31T10:24:26.396746",
+    "loginName": "root",
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh"
+}
+strokes:
+
+
+BusyBox v1.26.2 () built-in shell (ash)
+
+
+     _________
+    /        /\      _    ___ ___  ___
+   /  LE    /  \    | |  | __|   \| __|
+  /    DE  /    \   | |__| _|| |) | _|
+ /________/  LE  \  |____|___|___/|___|                      lede-project.org
+ \        \   DE /
+  \    LE  \    /  -----------------------------------------------------------
+   \  DE    \  /    Reboot (SNAPSHOT, r0-19d4acc)
+    \________\/    -----------------------------------------------------------
+
+
+]0;root@LEDE: ~root@LEDE:~# 
+
+
+BusyBox v1.26.2 () built-in shell (ash)
+
+
+     _________
+    /        /\      _    ___ ___  ___
+   /  LE    /  \    | |  | __|   \| __|
+  /    DE  /    \   | |__| _|| |) | _|
+ /________/  LE  \  |____|___|___/|___|                      lede-project.org
+ \        \   DE /
+  \    LE  \    /  -----------------------------------------------------------
+   \  DE    \  /    Reboot (SNAPSHOT, r0-19d4acc)
+    \________\/    -----------------------------------------------------------
+
+
+]0;root@LEDE: ~root@LEDE:~# 
+root:x:0:0:root:/root:/bin/ash
+daemon:*:1:1:daemon:/var:/bin/false
+ftp:*:55:55:ftp:/home/ftp:/bin/false
+network:*:101:101:network:/var:/bin/false
+nobody:*:65534:65534:nobody:/var:/bin/false
+dnsmasq:x:453:453:dnsmasq:/var/run/dnsmasq:/bin/false
+
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN qlen 1
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel master br-lan state UP qlen 1000
+    link/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff
+3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP qlen 1000
+    link/ether 52:54:00:12:34:57 brd ff:ff:ff:ff:ff:ff
+    inet 10.0.2.15/24 brd 10.0.2.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fec0::5054:ff:fe12:3457/64 scope site dynamic 
+       valid_lft 86158sec preferred_lft 14158sec
+    inet6 fe80::5054:ff:fe12:3457/64 scope link 
+       valid_lft forever preferred_lft forever
+4: br-lan: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP qlen 1000
+    link/ether 52:54:00:12:34:56 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.1/24 brd 192.168.1.255 scope global br-lan
+       valid_lft forever preferred_lft forever
+    inet6 fd03:7187:284c::1/60 scope global 
+       valid_lft forever preferred_lft forever
+    inet6 fe80::5054:ff:fe12:3456/64 scope link 
+       valid_lft forever preferred_lft forever
+
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/1/exe -> /sbin/procd
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/10/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/11/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1143/exe -> /usr/sbin/dropbear
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/12/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/129/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/13/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/130/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/131/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/133/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/135/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/14/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/146/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/147/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1478/exe -> /tmp/ssh1
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/148/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/149/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/154/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/155/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1683/exe -> /usr/sbin/dropbear
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1689/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1698/exe -> /usr/sbin/dropbear
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1699/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1708/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1709/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/1718/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/2/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/26/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/260/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/269/exe
+
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/281/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/294/exe
+
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/3/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/302/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/370/exe -> /sbin/ubusd
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/371/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/4/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/5/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/582/exe -> /sbin/logd
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/6/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/631/exe -> /sbin/netifd
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/658/exe -> /usr/sbin/odhcpd
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/689/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/7/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/761/exe -> /usr/sbin/odhcp6c
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/765/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/790/exe -> /bin/busybox
+
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/8/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/827/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/841/exe -> /usr/bin/getrandom
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/9/exe
+lrwxrwxrwx    1 root     root             0 Oct 31 10:20 /proc/924/exe -> /usr/sbin/dnsmasq
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/self/exe -> /bin/busybox
+lrwxrwxrwx    1 root     root             0 Oct 31 10:24 /proc/thread-self/exe -> /bin/busybox
+
+             total       used       free     shared    buffers     cached
+Mem:        774340      17088     757252       4316          0       4316
+-/+ buffers/cache:      12772     761568
+Swap:            0          0          0
+
+/root
+
+finalshell_separator
+ 10:24:31 up 4 min,  load average: 0.12, 0.23, 0.11
+
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4377      56    0    0    0     0          0         0     4377      56    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   44250     398    0    0    0     0          0         0    83295     483    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+
+finalshell_separator
+
+[
+
+[[
+ash
+askfirst
+awk
+basename
+board_detect
+brctl
+bunzip2
+busybox
+bzcat
+cat
+chgrp
+chmod
+chown
+chroot
+clear
+cmp
+config_generate
+cp
+crond
+crontab
+cut
+date
+dbclient
+dd
+devstatus
+df
+dirname
+dmesg
+dnsmasq
+dropbear
+dropbearkey
+du
+echo
+egrep
+env
+expr
+false
+fgrep
+find
+firstboot
+free
+fsync
+fw3
+fwtool
+getrandom
+grep
+gunzip
+gzip
+halt
+head
+hexdump
+hotplug-call
+hwclock
+id
+ifconfig
+ifdown
+ifstatus
+ifup
+init
+insmod
+ip
+ip6tables
+ip6tables-restore
+ip6tables-save
+ipcalc.sh
+iptables
+iptables-restore
+iptables-save
+jffs2mark
+jffs2reset
+jshn
+jsonfilter
+kill
+killall
+kmodloader
+ldd
+led.sh
+less
+ln
+lock
+logd
+logger
+login
+logread
+ls
+lsmod
+md5sum
+mkdir
+mkfifo
+mknod
+mkswap
+mktemp
+modinfo
+modprobe
+mount
+mount_root
+mtd
+mv
+nc
+netcat
+netifd
+netmsg
+netstat
+nice
+nslookup
+ntpd
+ntpd-hotplug
+odhcp6c
+odhcpd
+odhcpd-update
+opkg
+opkg-key
+passwd
+pgrep
+pidof
+ping
+ping6
+pivot_root
+poweroff
+pppd
+printf
+procd
+ps
+pwd
+readlink
+reboot
+reload_config
+report.sh
+reset
+rm
+rmdir
+rmmod
+route
+scp
+sed
+seq
+sh
+sha256sum
+signify
+sleep
+sort
+ssh
+start-stop-daemon
+strings
+switch_root
+sync
+sysctl
+sysupgrade
+tail
+tar
+tee
+test
+time
+top
+touch
+tr
+traceroute
+traceroute6
+true
+ubus
+ubusd
+uci
+uclient-fetch
+udevtrigger
+udhcpc
+umount
+uname
+uniq
+uptime
+urandom_seed
+usign
+validate_data
+vi
+wc
+wget
+which
+wifi
+xargs
+xtables-multi
+yes
+zcat
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16812     757528       4316          0       4316
+-/+ buffers/cache:      12496     761844
+Swap:            0          0          0
+finalshell_separator
+
+ 10:24:32 up 4 min,  load average: 0.12, 0.23, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   45692     417    0    0    0     0          0         0    94354     513    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+w
+g
+e
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16608     757732       4316          0       4316
+-/+ buffers/cache:      12292     762048
+Swap:            0          0          0
+finalshell_separator
+ 10:24:32 up 4 min,  load average: 0.12, 0.23, 0.11
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   48396     441    0    0    0     0          0         0    98765     537    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+set +o history;
+-ash: set: illegal option +o history
+]0;root@LEDE: ~root@LEDE:~# export L
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+t
+ANG="en_US";export LANGUAGE="en_US";export LC_ALL="en_US";top
+
+ 
+[H[JMem: 16680K used, 757660K free, 4316K shrd, 0K buff, 4316K cached
+CPU:   3% usr  11% sys   0% nic  84% idle   0% io   0% irq   0% sirq
+Load average: 0.13 0.23 0.12 1/53 1761
+[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND[0m
+ 1760  1699 root     R     1024   0%   9% top
+ 1683  1143 root     S      880   0%   3% /usr/sbin/dropbear -F -P /var/run/dro
+    7     2 root     SW       0   0%   3% [rcu_sched]
+
+  631     1 root     S     1492   0%   0% /sbin/netifd
+    1     0 root     S     1316   0%   0% /sbin/procd
+  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_
+  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd
+ 1699  1683 root     S     1028   0%   0% -ash
+ 1689  1683 root     S     1028   0%   0% -ash
+  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp
+  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh
+  371     1 root     S     1024   0%   0% /bin/ash --login
+  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s
+ 1754  1683 root     S     1024   0%   0% ash -c export LANG="en_US";export LAN
+ 1753   689 root     S     1024   0%   0% sleep 28
+ 1759  1754 root     S     1024   0%   0% sleep 1
+  582     1 root     S     1004   0%   0% /sbin/logd -S 64
+  370     1 root     S      960   0%   0% /sbin/ubusd
+ 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro
+  924     1 dnsmasq  S      864   0%   0% /usr/sbin/dnsmasq -C /var/etc/dnsmasq
+a
+.
+t
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16648     757692       4316          0       4316
+-/+ buffers/cache:      12332     762008
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:33 up 4 min,  load average: 0.11, 0.22, 0.11
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   49488     457    0    0    0     0          0         0   107202     564    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+x
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16648     757692       4316          0       4316
+-/+ buffers/cache:      12332     762008
+Swap:            0          0          0
+
+finalshell_separator
+ 10:24:34 up 4 min,  load average: 0.11, 0.22, 0.11
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   50978     468    0    0    0     0          0         0   110815     578    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+t
+
+
+Downloading 'a.txt'
+Failed to allocate uclient context
+
+]0;root@LEDE: ~root@LEDE:~# 
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16632     757708       4316          0       4316
+-/+ buffers/cache:      12316     762024
+Swap:            0          0          0
+finalshell_separator
+ 10:24:35 up 4 min,  load average: 0.11, 0.22, 0.11
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   51650     478    0    0    0     0          0         0   114542     593    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16560     757780       4316          0       4316
+-/+ buffers/cache:      12244     762096
+Swap:            0          0          0
+finalshell_separator
+
+ 10:24:35 up 4 min,  load average: 0.11, 0.22, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   53272     491    0    0    0     0          0         0   118872     608    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+l
+s
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16592     757748       4316          0       4316
+-/+ buffers/cache:      12276     762064
+Swap:            0          0          0
+
+
+
+finalshell_separator
+
+]0;root@LEDE: ~root@LEDE:~# 
+ 10:24:37 up 4 min,  load average: 0.11, 0.22, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   54010     502    0    0    0     0          0         0   122977     627    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16520     757820       4316          0       4316
+-/+ buffers/cache:      12204     762136
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:37 up 4 min,  load average: 0.11, 0.22, 0.11
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   55506     514    0    0    0     0          0         0   127307     646    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+e
+x
+[H[JMem: 16908K used, 757432K free, 4316K shrd, 0K buff, 4316K cached
+
+CPU:   2% usr  10% sys   0% nic  86% idle   0% io   0% irq   0% sirq
+
+Load average: 0.12 0.23 0.12 2/53 1803
+[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND[0m
+ 1683  1143 root     S      880   0%   6% /usr/sbin/dropbear -F -P /var/run/dro
+ 1760  1699 root     R     1024   0%   0% top
+
+i
+    1     0 root     S     1316   0%   0% /sbin/procd
+ 1689  1683 root     S     1028   0%   0% -ash
+    7     2 root     RW       0   0%   0% [rcu_sched]
+  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp
+   14     2 root     SW       0   0%   0% [kworker/u4:1]
+  631     1 root     S     1492   0%   0% /sbin/netifd
+  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_
+  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd
+ 1699  1683 root     S     1028   0%   0% -ash
+  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh
+
+  371     1 root     S     1024   0%   0% /bin/ash --login
+  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s
+ 1796  1683 root     S     1024   0%   0% ash -c export LANG="en_US";export LAN
+ 1801  1796 root     S     1024   0%   0% sleep 1
+ 1753   689 root     S     1024   0%   0% sleep 28
+
+  582     1 root     S     1004   0%   0% /sbin/logd -S 64
+  370     1 root     S      960   0%   0% /sbin/ubusd
+ 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro
+t
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16932     757408       4316          0       4316
+-/+ buffers/cache:      12616     761724
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:38 up 4 min,  load average: 0.10, 0.22, 0.11
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   56886     536    0    0    0     0          0         0   135749     682    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16688     757652       4316          0       4316
+-/+ buffers/cache:      12372     761968
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:39 up 4 min,  load average: 0.10, 0.22, 0.11
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   58570     550    0    0    0     0          0         0   139920     701    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+
+finalshell_separator
+
+[J
+[J
+[J
+[J
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16860     757480       4316          0       4316
+-/+ buffers/cache:      12544     761796
+Swap:            0          0          0
+finalshell_separator
+ 10:24:40 up 4 min,  load average: 0.10, 0.22, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   59974     568    0    0    0     0          0         0   143955     723    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16788     757552       4316          0       4316
+-/+ buffers/cache:      12472     761868
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:40 up 4 min,  load average: 0.10, 0.22, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   61770     582    0    0    0     0          0         0   148162     741    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+l
+s
+
+
+]0;root@LEDE: ~root@LEDE:~# 
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16828     757512       4316          0       4316
+-/+ buffers/cache:      12512     761828
+Swap:            0          0          0
+
+finalshell_separator
+ 10:24:41 up 4 min,  load average: 0.10, 0.22, 0.11
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   62454     592    0    0    0     0          0         0   151907     756    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16756     757584       4316          0       4316
+-/+ buffers/cache:      12440     761900
+Swap:            0          0          0
+
+finalshell_separator
+ 10:24:42 up 4 min,  load average: 0.10, 0.22, 0.11
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   63842     602    0    0    0     0          0         0   155821     770    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+w
+g
+e
+t
+ 
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16796     757544       4316          0       4316
+-/+ buffers/cache:      12480     761860
+Swap:            0          0          0
+finalshell_separator
+ 10:24:43 up 4 min,  load average: 0.10, 0.22, 0.11
+finalshell_separator
+
+a
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   65182     620    0    0    0     0          0         0   159850     791    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+[H[JMem: 16796K used, 757544K free, 4316K shrd, 0K buff, 4316K cached
+CPU:   2% usr  11% sys   0% nic  84% idle   0% io   0% irq   0% sirq
+Load average: 0.11 0.23 0.12 1/51 1848
+[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND[0m
+
+a
+ 1683  1143 root     S      880   0%   7% /usr/sbin/dropbear -F -P /var/run/dro
+ 1760  1699 root     R     1024   0%   1% top
+    7     2 root     SW       0   0%   0% [rcu_sched]
+    1     0 root     S     1316   0%   0% /sbin/procd
+  631     1 root     S     1492   0%   0% /sbin/netifd
+ 1689  1683 root     S     1028   0%   0% -ash
+   10     2 root     SW       0   0%   0% [migration/1]
+    9     2 root     SW       0   0%   0% [migration/0]
+    3     2 root     SW       0   0%   0% [ksoftirqd/0]
+   14     2 root     SW       0   0%   0% [kworker/u4:1]
+  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_
+  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd
+ 1699  1683 root     S     1028   0%   0% -ash
+  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp
+  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh
+  371     1 root     S     1024   0%   0% /bin/ash --login
+  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s
+ 1753   689 root     S     1024   0%   0% sleep 28
+  582     1 root     S     1004   0%   0% /sbin/logd -S 64
+  370     1 root     S      960   0%   0% /sbin/ubusd
+a
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16716     757624       4316          0       4316
+-/+ buffers/cache:      12400     761940
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:43 up 4 min,  load average: 0.25, 0.25, 0.12
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   66882     634    0    0    0     0          0         0   167244     812    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16628     757712       4316          0       4316
+-/+ buffers/cache:      12312     762028
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:44 up 4 min,  load average: 0.25, 0.25, 0.12
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   67152     639    0    0    0     0          0         0   170623     822    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+.
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16932     757408       4316          0       4316
+-/+ buffers/cache:      12616     761724
+Swap:            0          0          0
+finalshell_separator
+ 10:24:45 up 4 min,  load average: 0.25, 0.25, 0.12
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   68480     647    0    0    0     0          0         0   173800     833    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+l
+o
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16948     757392       4316          0       4316
+-/+ buffers/cache:      12632     761708
+Swap:            0          0          0
+finalshell_separator
+
+g
+ 10:24:46 up 4 min,  load average: 0.25, 0.25, 0.12
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   69164     657    0    0    0     0          0         0   177986     848    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+
+
+Downloading 'aaa.log'
+Failed to allocate uclient context
+
+]0;root@LEDE: ~root@LEDE:~# 
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16948     757392       4316          0       4316
+-/+ buffers/cache:      12632     761708
+Swap:            0          0          0
+
+finalshell_separator
+ 10:24:46 up 4 min,  load average: 0.25, 0.25, 0.12
+finalshell_separator
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   70546     666    0    0    0     0          0         0   182122     866    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+e
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16948     757392       4316          0       4316
+-/+ buffers/cache:      12632     761708
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:47 up 4 min,  load average: 0.25, 0.25, 0.12
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   71134     676    0    0    0     0          0         0   186344     883    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+
+finalshell_separator
+
+             total       used       free     shared    buffers     cached
+
+Mem:        774340      16932     757408       4316          0       4316
+-/+ buffers/cache:      12616     761724
+Swap:            0          0          0
+
+finalshell_separator
+
+ 10:24:48 up 4 min,  load average: 0.25, 0.25, 0.12
+
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   72522     686    0    0    0     0          0         0   190537     902    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+
+finalshell_separator
+
+[H[JMem: 16932K used, 757408K free, 4316K shrd, 0K buff, 4316K cached
+
+CPU:   2% usr  11% sys   0% nic  84% idle   0% io   0% irq   1% sirq
+
+Load average: 0.26 0.26 0.13 1/53 1894
+[7m  PID  PPID USER     STAT   VSZ %VSZ %CPU COMMAND[0m
+ 1683  1143 root     S      880   0%   7% /usr/sbin/dropbear -F -P /var/run/dro
+
+ 1760  1699 root     R     1024   0%   1% top
+    7     2 root     SW       0   0%   0% [rcu_sched]
+    1     0 root     S     1316   0%   0% /sbin/procd
+  658     1 root     S     1076   0%   0% /usr/sbin/odhcpd
+ 1689  1683 root     S     1028   0%   0% -ash
+   11     2 root     SW       0   0%   0% [ksoftirqd/1]
+  631     1 root     S     1492   0%   0% /sbin/netifd
+  827     1 root     S     1096   0%   0% {urandom_seed} /bin/sh /sbin/urandom_
+
+ 1699  1683 root     S     1028   0%   0% -ash
+  790     1 root     S <   1024   0%   0% /usr/sbin/ntpd -n -N -S /usr/sbin/ntp
+  689     1 root     S     1024   0%   0% sh /usr/bin/report.sh
+  371     1 root     S     1024   0%   0% /bin/ash --login
+  765   631 root     S     1024   0%   0% udhcpc -p /var/run/udhcpc-eth1.pid -s
+ 1889  1683 root     S     1024   0%   0% ash -c export LANG="en_US";export LAN
+ 1753   689 root     S     1024   0%   0% sleep 28
+ 1894  1889 root     S     1024   0%   0% sleep 1
+  582     1 root     S     1004   0%   0% /sbin/logd -S 64
+  370     1 root     S      960   0%   0% /sbin/ubusd
+ 1698  1143 root     S      880   0%   0% /usr/sbin/dropbear -F -P /var/run/dro
+x
+i
+t
+             total       used       free     shared    buffers     cached
+Mem:        774340      16924     757416       4316          0       4316
+-/+ buffers/cache:      12608     761732
+Swap:            0          0          0
+
+finalshell_separator
+ 10:24:49 up 4 min,  load average: 0.23, 0.25, 0.12
+finalshell_separator
+
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:    4511      58    0    0    0     0          0         0     4511      58    0    0    0     0       0          0
+  eth0:   38800     134    0    0    0     0          0         0    21971     137    0    0    0     0       0          0
+  eth1:   73820     705    0    0    0     0          0         0   197763     928    0    0    0     0       0          0
+br-lan:   36464     127    0    0    0     0          0         0    20486     131    0    0    0     0       0          0
+finalshell_separator
+Filesystem           1K-blocks      Used Available Use% Mounted on
+rootfs                  385476      4228    381248   1% /
+tmpfs                   387168        88    387080   0% /tmp
+tmpfs                      512         0       512   0% /dev
+finalshell_separator
+
+console:
+[
+wget a.txt
+ls
+ls
+wget aaa.log
+exit
+
+cpu:
+{
+    "usage": 10,
+    "time": "2020-10-31T10:25:00.728850",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:25:01.872714",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   26 root         0 SW   [kworker/u4:2]
+  129 root         0 SW   [kworker/u4:3]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "AD69454DF9DFA28EFA997ED110EC6383",
+    "startTime": "2020-10-31T10:25:06.236279",
+    "attackPort": 36652,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:25:17.636077",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [],
+    "attackIP": "5.188.87.60",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "F15C77A2C1E7491DD3F782317294F54E",
+    "startTime": "2020-10-31T10:25:09.870693",
+    "attackPort": 39392,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:25:21.216182",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [],
+    "attackIP": "5.188.87.57",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "2ECAB8DBB9B8A9B7C8ADEAF3E6FB4855",
+    "startTime": "2020-10-31T10:25:23.396833",
+    "attackPort": 50114,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:25:27.106698",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [],
+    "attackIP": "5.188.87.51",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 9,
+    "time": "2020-10-31T10:25:30.954833",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:25:32.056922",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 SW<  [pdecrypt]
+  260 root         0 SW<  [bioset]
+  269 root         0 SW<  [bios
+
+
+session data:
+{
+    "attackPort": 53716,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:25:39.862810",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [],
+    "potIP": "45.76.117.163",
+    "loginPasswd": "root",
+    "resize": 0,
+    "sessionID": "67B42CDBB226ECAC8714A12D03250913",
+    "startTime": "2020-10-31T10:24:29.725704",
+    "loginName": "root",
+    "attackIP": "166.111.83.214",
+    "svrType": "ssh"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "C67CE7DB66E89310DDE0033432EDB216",
+    "startTime": "2020-10-31T10:25:41.045558",
+    "attackPort": 33518,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:25:43.334815",
+    "blastList": [
+        "root::pa$$w0rd"
+    ],
+    "strokes": [],
+    "attackIP": "51.38.179.113",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 9,
+    "time": "2020-10-31T10:26:01.181021",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:26:02.330566",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 SW<  [pdecrypt]
+  260 root         0 SW<  [bioset]
+  269 root         0 SW<  [bios
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "8BD08CBFEEC941C9845173B669A529B4",
+    "startTime": "2020-10-31T10:26:01.858799",
+    "attackPort": 60746,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:26:02.472246",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "A1214731DB2123F8CC711FD6DF87AEA2",
+    "startTime": "2020-10-31T10:26:02.486731",
+    "attackPort": 60748,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:26:02.864358",
+    "blastList": [],
+    "strokes": [],
+    "attackIP": "192.168.1.101",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 8,
+    "time": "2020-10-31T10:26:31.569043",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T10:26:32.672850",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 SW<  [pdecrypt]
+  260 root         0 SW<  [bioset]
+  269 root         0 SW<  [bios
+
+
+cpu:
+{
+    "usage": 8,
+    "time": "2020-10-31T10:27:01.792683",
+    "svrType": "cpu",
+    "potIP": "45.76.117.163"
+}
+
+
+session data:
+{
+    "resize": 0,
+    "sessionID": "AC2B0587A9BB8792E6686DFC24067FAF",
+    "startTime": "2020-10-31T10:26:59.139297",
+    "attackPort": 24340,
+    "portPort": 22,
+    "endTime": "2020-10-31T10:27:02.321642",
+    "blastList": [
+        "root::root"
+    ],
+    "strokes": [],
+    "attackIP": "45.227.255.157",
+    "svrType": "ssh",
+    "potIP": "45.76.117.163"
+}
+strokes:
+console:
+
+
+processes:
+{
+    "time": "2020-10-31T10:27:02.948092",
+    "svrType": "process",
+    "potIP": "45.76.117.163"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+  130 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  133 root         0 SW<  [bioset]
+  135 root         0 SW<  [kblockd]
+  146 root         0 SW   [kworker/1:1]
+  147 root         0 SW   [kswapd0]
+  148 root         0 SW<  [vmstat]
+  149 root         0 SW   [fsnotify_mark]
+  154 root         0 SW<  [pencrypt]
+  155 root         0 SW<  [pdecrypt]
+  260 root         0 SW<  [bioset]
+  269 root         0 SW<  [bios
+
+

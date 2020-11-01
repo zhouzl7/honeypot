@@ -1,0 +1,4 @@
+/etc/config
+/etc/rc.local
+/proc/cpuinfo
+/proc/meminfo

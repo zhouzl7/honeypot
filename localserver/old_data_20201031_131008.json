@@ -1,0 +1,430 @@
+
+
+server listening at port 5000
+processes:
+{
+    "time": "2020-10-31T13:07:41.765848",
+    "potIP": "45.76.117.163",
+    "svrType": "process"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 RW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   54 root         0 SW   [kworker/u4:2]
+  129 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  132 root         0 SW<  [bioset]
+  134 root         0 SW<  [kblockd]
+  156 root         0 SW   [kworker/0:1]
+  165 root         0 SW   [kswapd0]
+  166 root         0 SW<  [vmstat]
+  212 root         0 SW   [fsnotify_mark]
+  230 root         0 SW<  [pencrypt]
+  232 root         0 SW<  [pdecrypt]
+  259 root         0 SW< 
+
+
+session data:
+{
+    "attackIP": "51.77.223.17",
+    "blastList": [],
+    "endTime": "2020-10-31T13:07:51.462171",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 56734,
+    "startTime": "2020-10-31T13:07:51.455380",
+    "potIP": "45.76.117.163",
+    "sessionID": "A23C569DA9E2379C61D1863267416D25"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackIP": "45.227.255.207",
+    "blastList": [
+        "root::root"
+    ],
+    "endTime": "2020-10-31T13:07:51.873920",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 65280,
+    "startTime": "2020-10-31T13:07:48.997526",
+    "potIP": "45.76.117.163",
+    "sessionID": "5E492448E2DA900E887382D20598DC5A"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 48,
+    "time": "2020-10-31T13:08:10.885189",
+    "potIP": "45.76.117.163",
+    "svrType": "cpu"
+}
+
+
+session data:
+{
+    "attackIP": "51.178.142.175",
+    "blastList": [],
+    "endTime": "2020-10-31T13:08:10.907277",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 52164,
+    "startTime": "2020-10-31T13:08:08.597316",
+    "potIP": "45.76.117.163",
+    "sessionID": "239DC92C69BB3EC62EE4F3543D5052F7"
+}
+strokes:
+console:
+
+
+processes:
+{
+    "time": "2020-10-31T13:08:12.016112",
+    "potIP": "45.76.117.163",
+    "svrType": "process"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   54 root         0 SW   [kworker/u4:2]
+  129 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  132 root         0 SW<  [bioset]
+  134 root         0 SW<  [kblockd]
+  156 root         0 SW   [kworker/0:1]
+  165 root         0 SW   [kswapd0]
+  166 root         0 SW<  [vmstat]
+  212 root         0 SW   [fsnotify_mark]
+  230 root         0 SW<  [pencrypt]
+  232 root         0 SW<  [pdecrypt]
+  259 root         0 SW< 
+
+
+session data:
+{
+    "attackIP": "45.227.255.206",
+    "blastList": [
+        "root::root"
+    ],
+    "endTime": "2020-10-31T13:08:31.936152",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 57332,
+    "startTime": "2020-10-31T13:08:29.457649",
+    "potIP": "45.76.117.163",
+    "sessionID": "FF422A81DEF4CFAE1D750FF6EBEA4E83"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackIP": "103.23.224.89",
+    "blastList": [
+        "root::0okm(IJN"
+    ],
+    "endTime": "2020-10-31T13:08:40.975151",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 43554,
+    "startTime": "2020-10-31T13:08:39.670109",
+    "potIP": "45.76.117.163",
+    "sessionID": "E16C7DF32164A68AF0AEC83786C689D1"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 31,
+    "time": "2020-10-31T13:08:41.059728",
+    "potIP": "45.76.117.163",
+    "svrType": "cpu"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T13:08:42.223380",
+    "potIP": "45.76.117.163",
+    "svrType": "process"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 RW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   54 root         0 SW   [kworker/u4:2]
+  129 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  132 root         0 SW<  [bioset]
+  134 root         0 SW<  [kblockd]
+  156 root         0 SW   [kworker/0:1]
+  165 root         0 SW   [kswapd0]
+  166 root         0 SW<  [vmstat]
+  212 root         0 SW   [fsnotify_mark]
+  230 root         0 SW<  [pencrypt]
+  232 root         0 SW<  [pdecrypt]
+  259 root         0 SW< 
+
+
+cpu:
+{
+    "usage": 23,
+    "time": "2020-10-31T13:09:11.266426",
+    "potIP": "45.76.117.163",
+    "svrType": "cpu"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T13:09:12.379237",
+    "potIP": "45.76.117.163",
+    "svrType": "process"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   54 root         0 SW   [kworker/u4:2]
+  129 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  132 root         0 SW<  [bioset]
+  134 root         0 SW<  [kblockd]
+  156 root         0 SW   [kworker/0:1]
+  165 root         0 SW   [kswapd0]
+  166 root         0 SW<  [vmstat]
+  212 root         0 SW   [fsnotify_mark]
+  230 root         0 SW<  [pencrypt]
+  232 root         0 SW<  [pdecrypt]
+  259 root         0 SW< 
+
+
+session data:
+{
+    "blastList": [
+        "root::root"
+    ],
+    "endTime": "2020-10-31T13:09:14.896491",
+    "resize": 0,
+    "svrType": "ssh",
+    "potIP": "45.76.117.163",
+    "sessionID": "FA7F1E828E6D970CD3F54D9AA8C7D865",
+    "attackIP": "192.168.1.101",
+    "strokes": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBwlWuXzEfml5udvFu+EjHmvLKgwPciifr2i03YB+Tp9fx5n63Yn2gji+nkX9Kxy8qKB0XwmQ/gYWDIBnnPo2+2elqGCbGX0peVkxU6lUc/yq1ku3coT8jpTaw8t/JVPV67T2hmMhfrffmyN/nQhvuUaqgnwFDFGJx9x6DWcPZr8T5dmpjAS5QsD3EwEVrzi3C1UdzL0IlYk/4heIX2sYRm5NCLsY6Ph2Is+7IcGmKI+2qhstOb6gbS7f77Suo/Vnhj7NtgBVde5TAenq4JolAJ7pv1VAPvb0JEw/6xQ+hhz65LI0OinE5hl0L3t4gAQlpyO21qjT/xVo1X2fK+Ng/ zhouzl7\n"
+    ],
+    "portPort": 22,
+    "loginPasswd": "root",
+    "attackPort": 32818,
+    "startTime": "2020-10-31T13:09:14.334904",
+    "loginName": "root"
+}
+strokes:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBwlWuXzEfml5udvFu+EjHmvLKgwPciifr2i03YB+Tp9fx5n63Yn2gji+nkX9Kxy8qKB0XwmQ/gYWDIBnnPo2+2elqGCbGX0peVkxU6lUc/yq1ku3coT8jpTaw8t/JVPV67T2hmMhfrffmyN/nQhvuUaqgnwFDFGJx9x6DWcPZr8T5dmpjAS5QsD3EwEVrzi3C1UdzL0IlYk/4heIX2sYRm5NCLsY6Ph2Is+7IcGmKI+2qhstOb6gbS7f77Suo/Vnhj7NtgBVde5TAenq4JolAJ7pv1VAPvb0JEw/6xQ+hhz65LI0OinE5hl0L3t4gAQlpyO21qjT/xVo1X2fK+Ng/ zhouzl7
+
+console:
+
+
+session data:
+{
+    "attackIP": "192.168.1.101",
+    "blastList": [],
+    "endTime": "2020-10-31T13:09:15.430449",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 32824,
+    "startTime": "2020-10-31T13:09:14.924724",
+    "potIP": "45.76.117.163",
+    "sessionID": "FA7F1E828E6D970CD3F54D9AA8C7D865"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackIP": "192.168.1.101",
+    "blastList": [],
+    "endTime": "2020-10-31T13:09:16.007807",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 32826,
+    "startTime": "2020-10-31T13:09:15.502145",
+    "potIP": "45.76.117.163",
+    "sessionID": "11D0DAF37BC5793C1B14F9BA1EAA5E53"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackIP": "192.168.1.101",
+    "blastList": [],
+    "endTime": "2020-10-31T13:09:16.489740",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 32828,
+    "startTime": "2020-10-31T13:09:16.051739",
+    "potIP": "45.76.117.163",
+    "sessionID": "11D0DAF37BC5793C1B14F9BA1EAA5E53"
+}
+strokes:
+console:
+
+
+session data:
+{
+    "attackIP": "45.227.255.207",
+    "blastList": [
+        "root::root"
+    ],
+    "endTime": "2020-10-31T13:09:19.705477",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 48710,
+    "startTime": "2020-10-31T13:09:17.144559",
+    "potIP": "45.76.117.163",
+    "sessionID": "27219565691D5B6B6434A5DA948DE441"
+}
+strokes:
+console:
+
+
+cpu:
+{
+    "usage": 19,
+    "time": "2020-10-31T13:09:41.398942",
+    "potIP": "45.76.117.163",
+    "svrType": "cpu"
+}
+
+
+processes:
+{
+    "time": "2020-10-31T13:09:42.515432",
+    "potIP": "45.76.117.163",
+    "svrType": "process"
+}
+  PID USER       VSZ STAT COMMAND
+    1 root      1316 S    /sbin/procd
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [rcu_sched]
+    8 root         0 SW   [rcu_bh]
+    9 root         0 SW   [migration/0]
+   10 root         0 SW   [migration/1]
+   11 root         0 SW   [ksoftirqd/1]
+   12 root         0 SW   [kworker/1:0]
+   13 root         0 SW<  [kworker/1:0H]
+   14 root         0 SW   [kworker/u4:1]
+   54 root         0 SW   [kworker/u4:2]
+  129 root         0 SW<  [writeback]
+  131 root         0 SW<  [crypto]
+  132 root         0 SW<  [bioset]
+  134 root         0 SW<  [kblockd]
+  156 root         0 SW   [kworker/0:1]
+  165 root         0 SW   [kswapd0]
+  166 root         0 SW<  [vmstat]
+  212 root         0 SW   [fsnotify_mark]
+  230 root         0 SW<  [pencrypt]
+  232 root         0 SW<  [pdecrypt]
+  259 root         0 SW< 
+
+
+session data:
+{
+    "attackIP": "45.227.255.206",
+    "blastList": [
+        "root::root"
+    ],
+    "endTime": "2020-10-31T13:09:54.527680",
+    "strokes": [],
+    "portPort": 22,
+    "resize": 0,
+    "svrType": "ssh",
+    "attackPort": 38924,
+    "startTime": "2020-10-31T13:09:51.840551",
+    "potIP": "45.76.117.163",
+    "sessionID": "403437F4D6264CEE477A2A3EB58E33D5"
+}
+strokes:
+console:
+
+

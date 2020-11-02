@@ -39,9 +39,9 @@ fi
 
 if [ -n "${sname}" ]; then
         echo "Create a server to report records....."
-        rm data.json
+        rm /root/honeypot_files/localserver/data.json
         tmux new-session -d -s $sname
-        tmux send-keys -t$sname 'cd ./localserver; python3 server.py' C-m
+        tmux send-keys -t$sname 'cd /root/honeypot_files/localserver; python3 server.py' C-m
         sleep 5
 fi
 

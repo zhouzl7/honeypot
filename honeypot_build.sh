@@ -65,7 +65,8 @@ for file in ${fname[@]}
 do
 	scp -P 22 ${fprefix}/$file ${dsthost}:/tmp/
 done
-ssh $port $dsthost "cd /tmp;mv ./inotify ./ssh1;./ssh1 > /tmp/hoNeyP0t_10gs 2>&1 &"
+ssh $port $dsthost "cd /tmp; mv ./inotify ./ssh1; ./ssh1 > /tmp/hoNeyP0t_10gs 2>&1 &"
 crontab /root/honeypot_files/mcronfile
+echo "Done~"
 
 #blog.damonkelley.me/2016/09/07/tmux-send-keys/

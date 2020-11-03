@@ -75,7 +75,7 @@ echo "Using [port"$fport"] to accomplish port forwarding......"
 #C-m means hit return. C- means Ctrl,M- means Alt.Detials in https://stackoverflow.com/questions/19313807/tmux-send-keys-syntax
 #tmux detach -s $3
 
-echo "Need 120 second for activating interface"
-sleep 120
+echo "Need 100 second for activating interface"
+sleep 100
 tmux send-keys -t$hname Enter Enter
 echo "Done~"

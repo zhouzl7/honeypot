@@ -344,7 +344,7 @@ def beacon_check(old, now, skip):
         print("OpenWrt restarting.")
         check_ssh(POT_IP, 22)
         skip[0] = 3
-        os.system("tmux kill-session -t qemuop")
+        #os.system("tmux kill-session -t qemuop")
         os.system('bash ../honeypot_clean.sh -h qemuop')
         time.sleep(3)
         os.system('bash ../honeypot_start.sh -h qemuop -f 22')

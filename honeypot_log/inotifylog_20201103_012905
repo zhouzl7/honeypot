@@ -1,0 +1,1541 @@
+Watching /etc/config successfully,which watch_descriptor is 1
+Watching /etc/rc.local successfully,which watch_descriptor is 2
+Watching /etc/dropbear/authorized_keys successfully,which watch_descriptor is 3
+Watching /etc/passwd successfully,which watch_descriptor is 4
+============================================
+UTC+8 Time:
+1:10:46 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:10:46 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:10:59 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:10:59 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:16 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:46 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:46 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:11:46 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:9 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:16 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:28 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:12:47 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:9 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:17 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:17 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:44 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:13:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:10 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:17 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:24 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:34 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:47 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:14:58 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:10 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:17 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:18 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:30 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:33 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:33 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:15:48 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:18 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:18 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:27 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:16:52 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_OPEN of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:11 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:18 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:18 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:18 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:18 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:17:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:8 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:8 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:8 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:37 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:40 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:49 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:49 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:18:49 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:19 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:31 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:53 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:55 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:19:55 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:19 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:33 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:33 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:33 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_OPEN of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:35 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:36 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:20:49 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:20 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:37 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:37 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:21:50 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:1 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:1 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:1 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:20 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:22:50 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:2 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:2 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:2 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:6 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:20 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:39 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:51 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:23:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:21 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:21 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:21 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:41 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:24:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:8 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:8 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:8 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:13 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:13 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:13 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:21 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:21 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:33 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:33 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:33 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:25:51 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:0 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:0 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:0 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:12 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:14 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:22 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:22 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:22 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:52 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:52 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:52 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:26:52 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:22 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:32 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:36 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:38 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:27:52 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:15 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:15 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:15 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:22 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:22 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:23 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:23 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:23 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:23 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:24 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:24 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:24 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:48 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:53 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:28:57 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:29:2 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:29:2 in 2020/11/3 
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:29:2 in 2020/11/3 
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+1:29:4 in 2020/11/3 
+IN_OPEN of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_ACCESS of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/passwd [file]
+~~~wd=4 and events_cookie = 0~~~
+IN_OPEN of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+IN_ACCESS of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/dropbear/authorized_keys

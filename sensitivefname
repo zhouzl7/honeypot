@@ -1,4 +1,4 @@
 /etc/config
 /etc/rc.local
-/proc/cpuinfo
-/proc/meminfo
+/etc/dropbear/authorized_keys
+/etc/passwd

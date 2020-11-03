@@ -38,7 +38,7 @@ fi
 
 echo "Save record_data from server"
 tmux send-keys -t$sname C-c C-m    #record data.json
-mv ./localserver/data.json ./localserver/old_data_`date "+%Y%m%d_%H%M%S"`.json
+mv /root/honeypot_files/localserver/data.json /root/honeypot_files/localserver/old_data_`date "+%Y%m%d_%H%M%S"`.json
 echo "Detele tmux sessiones......."
 sleep 2
 tmux kill-session -t $sname

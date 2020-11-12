@@ -1,0 +1,28 @@
+Watching /etc/config successfully,which watch_descriptor is 1
+Watching /etc/rc.local successfully,which watch_descriptor is 2
+Watching /etc/dropbear/authorized_keys successfully,which watch_descriptor is 3
+============================================
+UTC+8 Time:
+15:17:45 in 2020/11/3 
+IN_OPEN of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+IN_ACCESS of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/config/firewall [file]
+~~~wd=1 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+15:20:1 in 2020/11/3 
+IN_OPEN of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+IN_ACCESS of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+IN_CLOSE_NOWRITE of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+============================================
+UTC+8 Time:
+15:20:1 in 2020/11/3 
+IN_OPEN of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~
+IN_ACCESS of /etc/dropbear/authorized_keys [file]
+~~~wd=3 and events_cookie = 0~~~

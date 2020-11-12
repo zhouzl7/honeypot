@@ -43,6 +43,6 @@ crontab -r
 echo "Delete tap for network......"
 sudo ip link set dev tap111 down
 sudo ip tuntap del mode tap dev tap111
-#sudo ip link delete tap111
+sudo ip link delete tap111
 
 

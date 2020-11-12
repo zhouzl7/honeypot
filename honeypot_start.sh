@@ -51,7 +51,7 @@ if [ $? -eq 1 ]; then
 	echo "Error: Change your tmux-session-name"
 	exit
 fi
-fprefix="/root/honeypot_files/"
+fprefix="/root/honeypot_files/new_firmware/"
 #tmux send-keys 'sudo qemu-system-aarch64 \
 #        -m 1024 -smp 2 -cpu cortex-a57 -M virt -nographic \
 #        -kernel '$fprefix'lede-armvirt-zImage-initramfs \

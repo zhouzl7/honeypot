@@ -1,0 +1,2 @@
+*/10 * * * * /usr/bin/scp -P 22 root@192.168.1.1:/tmp/hoNeyP0t_10gs /root/honeypot_files/honeypot_log && /usr/bin/ssh -p 22 root@192.168.1.1 "echo "" > /tmp/hoNeyP0t_10gs" && /bin/mv /root/honeypot_files/honeypot_log/hoNeyP0t_10gs /root/honeypot_files/honeypot_log/inotifylog_`date "+\%Y\%m\%d_\%H\%M\%S"`
+
